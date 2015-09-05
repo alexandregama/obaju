@@ -5,6 +5,7 @@ Obaju E-commerce
 
 - Spring Core
 - Spring MVC
+- Spring Data
 - JPA
 - Hibernate
 - JUnit
